@@ -1,8 +1,8 @@
 # Olá! Eu sou o Luan 
 
-🎓 Estudante de Ciência da Computação
-💻 Desenvolvendo projetos com Python, análise de dados e automação de processos.
-🚀 Construindo meu portfólio com projetos práticos e buscando oportunidades para crescer na área de tecnologia.
+* 🎓 Estudante de Ciência da Computação
+* 💻 Desenvolvendo projetos com Python, análise de dados e automação de processos.
+* 🚀 Construindo meu portfólio com projetos práticos e buscando oportunidades para crescer na área de tecnologia.
 
 ## Tecnologias e ferramentas
 
